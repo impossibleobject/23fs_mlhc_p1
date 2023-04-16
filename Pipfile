@@ -12,6 +12,10 @@ ipykernel = "*"
 matplotlib = "*"
 opencv-python = "*"
 opencv-python-headless = "*"
+seaborn = "*"
+keras = "*"
+keras-tuner = "*"
+tensorflow = "*"
 
 [dev-packages]
 
