@@ -9,6 +9,9 @@ pandas = "*"
 scikit-learn = "*"
 torch = "*"
 ipykernel = "*"
+matplotlib = "*"
+opencv-python = "*"
+opencv-python-headless = "*"
 
 [dev-packages]
 
