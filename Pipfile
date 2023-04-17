@@ -16,6 +16,7 @@ seaborn = "*"
 keras = "*"
 keras-tuner = "*"
 tensorflow = "*"
+notebook = "*"
 
 [dev-packages]
 
